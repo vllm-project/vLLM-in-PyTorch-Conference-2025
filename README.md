@@ -1,6 +1,6 @@
 # vLLM-in-PyTorch-Conference-2025
 
-There are 53 videos (out of the full [117 videos](https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q) in PyTorch conference 2025) mentioning vLLM. The ratio is 45%, or around 50%.
+There are at least 53 videos (out of the full [117 videos](https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q) in PyTorch conference 2025) mentioning vLLM. The ratio is 45%, or around 50%. The list is non-exhaustive. If you find any other videos mentioning vLLM in PyTorch conference 2025, welcome to submit a pull-request to add it in the list!
 
 1. Keynote: Welcome & Opening Remarks Matt White, Executive Director, PyTorch Foundation
 - Details: [001-keynote-welcome-opening-remarks-matt-white-executive-directo](items/001-keynote-welcome-opening-remarks-matt-white-executive-directo/detail/index.md)
